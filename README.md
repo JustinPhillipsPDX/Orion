@@ -41,7 +41,7 @@
 ## Roadmap
 - [x] Repository setup
 - [ ] Core kernel development and system service integration
-- [ ] Implementation of the custom multi-layered language (Origin Eos with its first version, Origin Genesis)
+- [ ] Implementation of the custom multi-layered language ([**Orion Eos**](https://github.com/JustinPhillipsPDX/OrionEos) with its first version, Origin Genesis)
 - [ ] AI-assisted file and system management modules
 - [ ] User interface and interaction enhancements
 - [ ] Cross-platform testing and performance optimization

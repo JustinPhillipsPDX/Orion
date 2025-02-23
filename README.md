@@ -22,5 +22,5 @@ Orion is a revolutionary, self-sustaining operating system built on a unique, mu
 ### Build Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Orion.git
+   git clone https://github.com/JustinPhillipsPDX/Orion.git
    cd Orion

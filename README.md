@@ -24,3 +24,27 @@ Orion is a revolutionary, self-sustaining operating system built on a unique, mu
    ```bash
    git clone https://github.com/JustinPhillipsPDX/Orion.git
    cd Orion
+   ```
+
+2. Run the installation script:
+   - **Linux/macOS**:
+     ```bash
+     ./install.sh
+     ```
+   - **Windows** (in PowerShell):
+     ```powershell
+     ./install.ps1
+     ```
+
+3. Follow the on-screen prompts to complete the setup.
+
+## Roadmap
+- [x] Repository setup
+- [ ] Core kernel development and system service integration
+- [ ] Implementation of the custom multi-layered language
+- [ ] AI-assisted file and system management modules
+- [ ] User interface and interaction enhancements
+- [ ] Cross-platform testing and performance optimization
+
+## License
+This project is licensed under the [MIT License](LICENSE).

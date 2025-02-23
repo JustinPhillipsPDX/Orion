@@ -1,6 +1,6 @@
 # Orion 🌌
 
-Orion is a revolutionary, self-sustaining operating system built on a unique, multi-layered language framework. By integrating core system functions, middleware services, and AI-driven user interfaces into distinct yet interdependent layers, Orion rethinks OS design for ultimate modularity, backward compatibility, and intelligent system management.
+**Orion** is a revolutionary, self-sustaining operating system built on a unique, multi-layered language framework. By integrating core system functions, middleware services, and AI-driven user interfaces into distinct yet interdependent layers, **Orion** rethinks OS design for ultimate modularity, backward compatibility, and intelligent system management.
 
 ## Features (Planned)
 - **Multi-Layered Architecture**: Separates core functions, system services, and application interfaces into distinct layers that update seamlessly.

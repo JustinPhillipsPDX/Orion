@@ -19,7 +19,7 @@
 - A C++ compiler (GCC, Clang, or MSVC)
 - CMake (3.10 or higher)
 - Git for version control
-- [SeaShell 🐚](https://github.com/JustinPhillipsPDX/SeaShell) (or a similar tool) for installation and build automation
+- [**SeaShell**](https://github.com/JustinPhillipsPDX/SeaShell) (or a similar tool) for installation and build automation
 
 ### Build Instructions
 1. Clone the repository:

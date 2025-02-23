@@ -1,4 +1,8 @@
-# Orion 🌌
+[![MasterHead](https://raw.githubusercontent.com/JustinPhillipsPDX/Orion/refs/heads/master/orion_logo_update.jpg)](https://github.com/JustinPhillipsPDX/Orion)
+
+---
+
+# 
 
 **Orion** is a revolutionary, self-sustaining operating system built on a unique, multi-layered language framework. By integrating core system functions, middleware services, and AI-driven user interfaces into distinct yet interdependent layers, **Orion** rethinks OS design for ultimate modularity, backward compatibility, and intelligent system management.
 

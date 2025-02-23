@@ -8,7 +8,7 @@
 - **Multi-Layered Architecture**: Separates core functions, system services, and application interfaces into distinct layers that update seamlessly.
 - **AI-Driven Interaction**: Provides real-time, context-sensitive assistance via voice and text, integrated at every layer.
 - **Dynamic File Management**: Replaces traditional folder hierarchies with intelligent, context-based file categorization and access.
-- **Custom Unified Language**: At the heart of Orion is our custom language, [**Orion Eos** 🌅](https://github.com/JustinPhillipsPDX/OrionEos), which forms the foundation for system-level code, middleware logic, and user interface components. The inaugural implementation of this language is called **Origin Genesis**, marking the first milestone in Orion’s evolution.
+- **Custom Unified Language**: At the heart of Orion is our custom language, [**Orion Eos**](https://github.com/JustinPhillipsPDX/OrionEos), which forms the foundation for system-level code, middleware logic, and user interface components. The inaugural implementation of this language is called **Origin Genesis**, marking the first milestone in Orion’s evolution.
 - **Adaptive Performance Optimization**: Uses AI to predict and manage CPU, memory, and power needs for efficient resource utilization.
 - **Cross-Platform Compatibility**: Designed to run on a variety of hardware environments with a focus on long-term maintainability.
 
